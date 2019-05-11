@@ -1,6 +1,5 @@
 # Projet_POO
-JABAR Yosra
-DOUDOUH Yassin 
+
 ABED Amir 
 
 Mini projet Roguelike
